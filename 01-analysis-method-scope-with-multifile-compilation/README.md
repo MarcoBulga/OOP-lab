@@ -32,3 +32,5 @@ Si prega di *non modificare*:
     oppure a compilare fornendo opzione `-sourcepath ..`.
 2. Si esegua il programma, e se ne confronti l'output con quanto previsto al punto (2):
   se l'output è differente, si cerchi di capirne il motivo (si contatti il docente o il tutor in caso di dubbi).
+
+  (Completed)
